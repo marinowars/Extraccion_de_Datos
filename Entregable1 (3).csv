@@ -1,0 +1,51 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+100,IOT,British Indian Ocean Territory,Africa,Eastern Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the uK,Elisabeth II,,IO
+101,IRL,Ireland,Europe,British Islands,70273.0,1921.0,3775100,76.8,75921.0,73132.0,Ireland/eire,Republic,Mary McAleese,1447.0,IE
+102,IRN,Iran,Asia,Southern and Central Asia,1648195.0,1906.0,67702000,69.7,195746.0,160151.0,Iran,Islamic Republic,Ali Mohammad Khatami-Ardakani,1380.0,IR
+103,IRQ,Iraq,Asia,Middle East,438317.0,1932.0,23115000,66.5,11500.0,,Al- Iraq,Republic,Saddam Hussein al-Takriti,1365.0,IQ
+104,ISL,Iceland,Europe,Nordic Countries,103000.0,1944.0,279000,79.4,8255.0,7474.0,Island,Republic,olafur Ragnar GrImsson,1449.0,IS
+105,ISR,Israel,Asia,Middle East,21056.0,1948.0,6217000,78.6,97477.0,98577.0,Yisrael/Israil,Republic,Moshe Katzav,1450.0,IL
+106,ITA,Italy,Europe,Southern Europe,301316.0,1861.0,57680000,79.0,1161755.0,1145372.0,Italia,Republic,Carlo Azeglio Ciampi,1464.0,IT
+107,JAM,Jamaica,North America,Caribbean,10990.0,1962.0,2583000,75.2,6871.0,6722.0,Jamaica,Constitutional Monarchy,Elisabeth II,1530.0,JM
+108,JOR,Jordan,Asia,Middle East,88946.0,1946.0,5083000,77.4,7526.0,7051.0,Al-urdunn,Constitutional Monarchy,Abdullah II,1786.0,JO
+109,JPN,Japan,Asia,Eastern Asia,377829.0,-660.0,126714000,80.7,3787042.0,4192638.0,Nihon/Nippon,Constitutional Monarchy,Akihito,1532.0,JP
+110,KAZ,Kazakstan,Asia,Southern and Central Asia,2724900.0,1991.0,16223000,63.2,24375.0,23383.0,Qazaqstan,Republic,Nursultan Nazarbajev,1864.0,KZ
+111,KEN,Kenya,Africa,Eastern Africa,580367.0,1963.0,30080000,48.0,9217.0,10241.0,Kenya,Republic,Daniel arap Moi,1881.0,KE
+112,KGZ,Kyrgyzstan,Asia,Southern and Central Asia,199900.0,1991.0,4699000,63.4,1626.0,1767.0,Kyrgyzstan,Republic,Askar Akajev,2253.0,KG
+113,KHM,Cambodia,Asia,Southeast Asia,181035.0,1953.0,11168000,56.5,5121.0,5670.0,Kampuchea,Constitutional Monarchy,Norodom Sihanouk,1800.0,KH
+114,KIR,Kiribati,Oceania,Micronesia,726.0,1979.0,83000,59.8,40.7,,Kiribati,Republic,Teburoro Tito,2256.0,KI
+115,KNA,Saint Kitts and Nevis,North America,Caribbean,261.0,1983.0,38000,70.7,299.0,,Saint Kitts and Nevis,Constitutional Monarchy,Elisabeth II,3064.0,KN
+116,KOR,South Korea,Asia,Eastern Asia,99434.0,1948.0,46844000,74.4,320749.0,442544.0,Taehan Minguk (Namhan),Republic,Kim Dae-jung,2331.0,KR
+117,KWT,Kuwait,Asia,Middle East,17818.0,1961.0,1972000,76.1,27037.0,30373.0,Al-Kuwayt,Constitutional Monarchy (Emirate),Jabir al-Ahmad al-Jabir al-Sabah,2429.0,KW
+118,LAO,Laos,Asia,Southeast Asia,236800.0,1953.0,5433000,53.1,1292.0,1746.0,Lao,Republic,Khamtay Siphandone,2432.0,LA
+119,LBN,Lebanon,Asia,Middle East,10400.0,1941.0,3282000,71.3,17121.0,15129.0,Lubnan,Republic,emile Lahoud,2438.0,LB
+120,LBR,Liberia,Africa,Western Africa,111369.0,1847.0,3154000,51.0,2012.0,,Liberia,Republic,Charles Taylor,2440.0,LR
+121,LBY,Libyan Arab Jamahiriya,Africa,Northern Africa,1759540.0,1951.0,5605000,75.5,44806.0,40562.0,Libiya,Socialistic State,Muammar al-Qadhafi,2441.0,LY
+122,LCA,Saint Lucia,North America,Caribbean,622.0,1979.0,154000,72.3,571.0,,Saint Lucia,Constitutional Monarchy,Elisabeth II,3065.0,LC
+123,LIE,Liechtenstein,Europe,Western Europe,160.0,1806.0,32300,78.8,1119.0,1084.0,Liechtenstein,Constitutional Monarchy,Hans-Adam II,2446.0,LI
+124,LKA,Sri Lanka,Asia,Southern and Central Asia,65610.0,1948.0,18827000,71.8,15706.0,15091.0,Sri Lanka/Ilankai,Republic,Chandrika Kumaratunga,3217.0,LK
+125,LSO,Lesotho,Africa,Southern Africa,30355.0,1966.0,2153000,50.8,1061.0,1161.0,Lesotho,Constitutional Monarchy,Letsie III,2437.0,LS
+126,LTu,Lithuania,Europe,Baltic Countries,65301.0,1991.0,3698500,69.1,10692.0,9585.0,Lietuva,Republic,Valdas Adamkus,2447.0,LT
+127,LuX,Luxembourg,Europe,Western Europe,2586.0,1867.0,435700,77.1,16321.0,15519.0,Luxembourg/Letzebuerg,Constitutional Monarchy,Henri,2452.0,Lu
+128,LVA,Latvia,Europe,Baltic Countries,64589.0,1991.0,2424200,68.4,6398.0,5639.0,Latvija,Republic,Vaira Vike-Freiberga,2434.0,LV
+129,MAC,Macao,Asia,Eastern Asia,18.0,,473000,81.6,5749.0,5940.0,Macau/Aomen,Special Administrative Region of China,Jiang Zemin,2454.0,MO
+130,MAR,Morocco,Africa,Northern Africa,446550.0,1956.0,28351000,69.1,36124.0,33514.0,Al-Maghrib,Constitutional Monarchy,Mohammed VI,2486.0,MA
+131,MCO,Monaco,Europe,Western Europe,1.5,1861.0,34000,78.8,776.0,,Monaco,Constitutional Monarchy,Rainier III,2695.0,MC
+132,MDA,Moldova,Europe,Eastern Europe,33851.0,1991.0,4380000,64.5,1579.0,1872.0,Moldova,Republic,Vladimir Voronin,2690.0,MD
+133,MDG,Madagascar,Africa,Eastern Africa,587041.0,1960.0,15942000,55.0,3750.0,3545.0,Madagasikara/Madagascar,Federal Republic,Didier Ratsiraka,2455.0,MG
+134,MDV,Maldives,Asia,Southern and Central Asia,298.0,1965.0,286000,62.2,199.0,,Dhivehi Raajje/Maldives,Republic,Maumoon Abdul Gayoom,2463.0,MV
+135,MEX,Mexico,North America,Central America,1958201.0,1810.0,98881000,71.5,414972.0,401461.0,Mexico,Federal Republic,Vicente Fox Quesada,2515.0,MX
+136,MHL,Marshall Islands,Oceania,Micronesia,181.0,1990.0,64000,65.5,97.0,,Marshall Islands/Majol,Republic,Kessai Note,2507.0,MH
+137,MKD,Macedonia,Europe,Southern Europe,25713.0,1991.0,2024000,73.8,1694.0,1915.0,Makedonija,Republic,Boris Trajkovski,2460.0,MK
+138,MLI,Mali,Africa,Western Africa,1240192.0,1960.0,11234000,46.7,2642.0,2453.0,Mali,Republic,Alpha Oumar Konare,2482.0,ML
+139,MLT,Malta,Europe,Southern Europe,316.0,1964.0,380200,77.9,3512.0,3338.0,Malta,Republic,Guido de Marco,2484.0,MT
+140,MMR,Myanmar,Asia,Southeast Asia,676578.0,1948.0,45611000,54.9,180375.0,171028.0,Myanma Pye,Republic,kenraali Than Shwe,2710.0,MM
+141,MNG,Mongolia,Asia,Eastern Asia,1566500.0,1921.0,2662000,67.3,1043.0,933.0,Mongol uls,Republic,Natsagiin Bagabandi,2696.0,MN
+142,MNP,Northern Mariana Islands,Oceania,Micronesia,464.0,,78000,75.5,0.0,,Northern Mariana Islands,Commonwealth of the uS,George W. Bush,2913.0,MP
+143,MOZ,Mozambique,Africa,Eastern Africa,801590.0,1975.0,19680000,37.5,2891.0,2711.0,Mocambique,Republic,JoaquIm A. Chissano,2698.0,MZ
+144,MRT,Mauritania,Africa,Western Africa,1025520.0,1960.0,2670000,50.8,998.0,1081.0,Muritaniya/Mauritanie,Republic,Maaouiya Ould Sid Ahmad Taya,2509.0,MR
+145,MSR,Montserrat,North America,Caribbean,102.0,,11000,78.0,109.0,,Montserrat,Dependent Territory of the uK,Elisabeth II,2697.0,MS
+146,MTQ,Martinique,North America,Caribbean,1102.0,,395000,78.3,2731.0,2559.0,Martinique,Overseas Department of France,Jacques Chirac,2508.0,MQ
+147,MuS,Mauritius,Africa,Eastern Africa,2040.0,1968.0,1158000,71.0,4251.0,4186.0,Mauritius,Republic,Cassam uteem,2511.0,Mu
+148,MWI,Malawi,Africa,Eastern Africa,118484.0,1964.0,10925000,37.6,1687.0,2527.0,Malawi,Republic,Bakili Muluzi,2462.0,MW
+149,MYS,Malaysia,Asia,Southeast Asia,329758.0,1957.0,22244000,70.8,69213.0,97884.0,Malaysia,"Constitutional Monarchy, Federation",Salahuddin Abdul Aziz Shah Alhaj,2464.0,MY

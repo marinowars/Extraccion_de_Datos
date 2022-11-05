@@ -1,0 +1,240 @@
+,continent,region,independence_year
+0,North America,Caribbean,
+1,Asia,Southern and Central Asia,1919.0
+2,Africa,Central Africa,1975.0
+3,North America,Caribbean,
+4,Europe,Southern Europe,1912.0
+5,Europe,Southern Europe,1278.0
+6,North America,Caribbean,
+7,Asia,Middle East,1971.0
+8,South America,South America,1816.0
+9,Asia,Middle East,1991.0
+10,Oceania,Polynesia,
+11,Antarctica,Antarctica,
+12,Antarctica,Antarctica,
+13,North America,Caribbean,1981.0
+14,Oceania,Australia and New Zealand,1901.0
+15,Europe,Western Europe,1918.0
+16,Asia,Middle East,1991.0
+17,Africa,Eastern Africa,1962.0
+18,Europe,Western Europe,1830.0
+19,Africa,Western Africa,1960.0
+20,Africa,Western Africa,1960.0
+21,Asia,Southern and Central Asia,1971.0
+22,Europe,Eastern Europe,1908.0
+23,Asia,Middle East,1971.0
+24,North America,Caribbean,1973.0
+25,Europe,Southern Europe,1992.0
+26,Europe,Eastern Europe,1991.0
+27,North America,Central America,1981.0
+28,North America,North America,
+29,South America,South America,1825.0
+30,South America,South America,1822.0
+31,North America,Caribbean,1966.0
+32,Asia,Southeast Asia,1984.0
+33,Asia,Southern and Central Asia,1910.0
+34,Antarctica,Antarctica,
+35,Africa,Southern Africa,1966.0
+36,Africa,Central Africa,1960.0
+37,North America,North America,1867.0
+38,Oceania,Australia and New Zealand,
+39,Europe,Western Europe,1499.0
+40,South America,South America,1810.0
+41,Asia,Eastern Asia,-1523.0
+42,Africa,Western Africa,1960.0
+43,Africa,Central Africa,1960.0
+44,Africa,Central Africa,1960.0
+45,Africa,Central Africa,1960.0
+46,Oceania,Polynesia,
+47,South America,South America,1810.0
+48,Africa,Eastern Africa,1975.0
+49,Africa,Western Africa,1975.0
+50,North America,Central America,1821.0
+51,North America,Caribbean,1902.0
+52,Oceania,Australia and New Zealand,
+53,North America,Caribbean,
+54,Asia,Middle East,1960.0
+55,Europe,Eastern Europe,1993.0
+56,Europe,Western Europe,1955.0
+57,Africa,Eastern Africa,1977.0
+58,North America,Caribbean,1978.0
+59,Europe,Nordic Countries,800.0
+60,North America,Caribbean,1844.0
+61,Africa,Northern Africa,1962.0
+62,South America,South America,1822.0
+63,Africa,Northern Africa,1922.0
+64,Africa,Eastern Africa,1993.0
+65,Africa,Northern Africa,
+66,Europe,Southern Europe,1492.0
+67,Europe,Baltic Countries,1991.0
+68,Africa,Eastern Africa,-1000.0
+69,Europe,Nordic Countries,1917.0
+70,Oceania,Melanesia,1970.0
+71,South America,South America,
+72,Europe,Western Europe,843.0
+73,Europe,Nordic Countries,
+74,Oceania,Micronesia,1990.0
+75,Africa,Central Africa,1960.0
+76,Europe,British Islands,1066.0
+77,Asia,Middle East,1991.0
+78,Africa,Western Africa,1957.0
+79,Europe,Southern Europe,
+80,Africa,Western Africa,1958.0
+81,North America,Caribbean,
+82,Africa,Western Africa,1965.0
+83,Africa,Western Africa,1974.0
+84,Africa,Central Africa,1968.0
+85,Europe,Southern Europe,1830.0
+86,North America,Caribbean,1974.0
+87,North America,North America,
+88,North America,Central America,1821.0
+89,South America,South America,
+90,Oceania,Micronesia,
+91,South America,South America,1966.0
+92,Asia,Eastern Asia,
+93,Antarctica,Antarctica,
+94,North America,Central America,1838.0
+95,Europe,Southern Europe,1991.0
+96,North America,Caribbean,1804.0
+97,Europe,Eastern Europe,1918.0
+98,Asia,Southeast Asia,1945.0
+99,Asia,Southern and Central Asia,1947.0
+100,Africa,Eastern Africa,
+101,Europe,British Islands,1921.0
+102,Asia,Southern and Central Asia,1906.0
+103,Asia,Middle East,1932.0
+104,Europe,Nordic Countries,1944.0
+105,Asia,Middle East,1948.0
+106,Europe,Southern Europe,1861.0
+107,North America,Caribbean,1962.0
+108,Asia,Middle East,1946.0
+109,Asia,Eastern Asia,-660.0
+110,Asia,Southern and Central Asia,1991.0
+111,Africa,Eastern Africa,1963.0
+112,Asia,Southern and Central Asia,1991.0
+113,Asia,Southeast Asia,1953.0
+114,Oceania,Micronesia,1979.0
+115,North America,Caribbean,1983.0
+116,Asia,Eastern Asia,1948.0
+117,Asia,Middle East,1961.0
+118,Asia,Southeast Asia,1953.0
+119,Asia,Middle East,1941.0
+120,Africa,Western Africa,1847.0
+121,Africa,Northern Africa,1951.0
+122,North America,Caribbean,1979.0
+123,Europe,Western Europe,1806.0
+124,Asia,Southern and Central Asia,1948.0
+125,Africa,Southern Africa,1966.0
+126,Europe,Baltic Countries,1991.0
+127,Europe,Western Europe,1867.0
+128,Europe,Baltic Countries,1991.0
+129,Asia,Eastern Asia,
+130,Africa,Northern Africa,1956.0
+131,Europe,Western Europe,1861.0
+132,Europe,Eastern Europe,1991.0
+133,Africa,Eastern Africa,1960.0
+134,Asia,Southern and Central Asia,1965.0
+135,North America,Central America,1810.0
+136,Oceania,Micronesia,1990.0
+137,Europe,Southern Europe,1991.0
+138,Africa,Western Africa,1960.0
+139,Europe,Southern Europe,1964.0
+140,Asia,Southeast Asia,1948.0
+141,Asia,Eastern Asia,1921.0
+142,Oceania,Micronesia,
+143,Africa,Eastern Africa,1975.0
+144,Africa,Western Africa,1960.0
+145,North America,Caribbean,
+146,North America,Caribbean,
+147,Africa,Eastern Africa,1968.0
+148,Africa,Eastern Africa,1964.0
+149,Asia,Southeast Asia,1957.0
+150,Africa,Eastern Africa,
+151,Africa,Southern Africa,1990.0
+152,Oceania,Melanesia,
+153,Africa,Western Africa,1960.0
+154,Oceania,Australia and New Zealand,
+155,Africa,Western Africa,1960.0
+156,North America,Central America,1838.0
+157,Oceania,Polynesia,
+158,Europe,Western Europe,1581.0
+159,Europe,Nordic Countries,1905.0
+160,Asia,Southern and Central Asia,1769.0
+161,Oceania,Micronesia,1968.0
+162,Oceania,Australia and New Zealand,1907.0
+163,Asia,Middle East,1951.0
+164,Asia,Southern and Central Asia,1947.0
+165,North America,Central America,1903.0
+166,Oceania,Polynesia,
+167,South America,South America,1821.0
+168,Asia,Southeast Asia,1946.0
+169,Oceania,Micronesia,1994.0
+170,Oceania,Melanesia,1975.0
+171,Europe,Eastern Europe,1918.0
+172,North America,Caribbean,
+173,Asia,Eastern Asia,1948.0
+174,Europe,Southern Europe,1143.0
+175,South America,South America,1811.0
+176,Asia,Middle East,
+177,Oceania,Polynesia,
+178,Asia,Middle East,1971.0
+179,Africa,Eastern Africa,
+180,Europe,Eastern Europe,1878.0
+181,Europe,Eastern Europe,1991.0
+182,Africa,Eastern Africa,1962.0
+183,Asia,Middle East,1932.0
+184,Africa,Northern Africa,1956.0
+185,Africa,Western Africa,1960.0
+186,Asia,Southeast Asia,1965.0
+187,Antarctica,Antarctica,
+188,Africa,Western Africa,
+189,Europe,Nordic Countries,
+190,Oceania,Melanesia,1978.0
+191,Africa,Western Africa,1961.0
+192,North America,Central America,1841.0
+193,Europe,Southern Europe,885.0
+194,Africa,Eastern Africa,1960.0
+195,North America,North America,
+196,Africa,Central Africa,1975.0
+197,South America,South America,1975.0
+198,Europe,Eastern Europe,1993.0
+199,Europe,Southern Europe,1991.0
+200,Europe,Nordic Countries,836.0
+201,Africa,Southern Africa,1968.0
+202,Africa,Eastern Africa,1976.0
+203,Asia,Middle East,1941.0
+204,North America,Caribbean,
+205,Africa,Central Africa,1960.0
+206,Africa,Western Africa,1960.0
+207,Asia,Southeast Asia,1350.0
+208,Asia,Southern and Central Asia,1991.0
+209,Oceania,Polynesia,
+210,Asia,Southern and Central Asia,1991.0
+211,Asia,Southeast Asia,
+212,Oceania,Polynesia,1970.0
+213,North America,Caribbean,1962.0
+214,Africa,Northern Africa,1956.0
+215,Asia,Middle East,1923.0
+216,Oceania,Polynesia,1978.0
+217,Asia,Eastern Asia,1945.0
+218,Africa,Eastern Africa,1961.0
+219,Africa,Eastern Africa,1962.0
+220,Europe,Eastern Europe,1991.0
+221,Oceania,Micronesia/Caribbean,
+222,South America,South America,1828.0
+223,North America,North America,1776.0
+224,Asia,Southern and Central Asia,1991.0
+225,Europe,Southern Europe,1929.0
+226,North America,Caribbean,1979.0
+227,South America,South America,1811.0
+228,North America,Caribbean,
+229,North America,Caribbean,
+230,Asia,Southeast Asia,1945.0
+231,Oceania,Melanesia,1980.0
+232,Oceania,Polynesia,
+233,Oceania,Polynesia,1962.0
+234,Asia,Middle East,1918.0
+235,Europe,Southern Europe,1918.0
+236,Africa,Southern Africa,1910.0
+237,Africa,Eastern Africa,1964.0
+238,Africa,Eastern Africa,1980.0
